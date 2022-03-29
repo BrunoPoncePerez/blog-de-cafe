@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\blogdecafe_fin"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "blogdecafe_inicio"
+	}
+}
